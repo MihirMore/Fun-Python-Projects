@@ -1,5 +1,5 @@
 # Fun-Python-Projects
-// New readme coming soon!!
+<!-- New readme coming soon!! -->
 ## Mad libs  
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Madlibs)
 
