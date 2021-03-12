@@ -8,3 +8,6 @@
 
 ## Rock Paper Scissors
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/rock-paper-scissors)
+
+## Hangman
+- [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Hangman)
