@@ -11,3 +11,7 @@
 
 ## Hangman
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Hangman)
+
+## Python 4 Everybody
+- [Source-Code]()
+- [Description :] Python for everybody is a course designed by Dr.Charles Severence. All the exercises are solved in this folder 
