@@ -2,6 +2,7 @@
 <!-- New readme coming soon!! -->
 ## Mad libs  
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Madlibs)
+- Description: This game takes a set of words as an input from user and creates a story based on the input.
 
 ## Guess the number 
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Guess_the_number)
