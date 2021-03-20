@@ -10,9 +10,11 @@
 
 ## Rock Paper Scissors
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/rock-paper-scissors)
+- Description: A simple game of rock-paper-scissors.
 
 ## Hangman
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Hangman)
+- Description: Hangman is a guessing game for two or more players. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters within   a certain number of guesses.
 
 ## Python 4 Everybody
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Python4everybody)
