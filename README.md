@@ -6,7 +6,7 @@
 
 ## Guess the number 
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Guess_the_number)
-- Description: Pretty obvious! an user can guess the secret number or the computer can guess your secret number.Choice is yours
+- Description: Pretty obvious! an user can guess the secret number or the computer can guess your secret number. Choice is yours
 
 ## Rock Paper Scissors
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/rock-paper-scissors)
