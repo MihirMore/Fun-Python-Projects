@@ -6,7 +6,7 @@
 
 ## Guess the number 
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Guess_the_number)
-- Description: Pretty obvious! an user can guess the secret number or the computer can guess your secret number. Choice is yours
+- Description: Pretty obvious! an user can guess the secret number or the computer can guess your secret number. Choice is yours.
 
 ## Rock Paper Scissors
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/rock-paper-scissors)
@@ -18,4 +18,8 @@
 
 ## Python 4 Everybody
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Python4everybody)
-- Description: Python for everybody is a course designed by Dr.Charles Severence. All the exercises are solved in this folder 
+- Description: Python for everybody is a course designed by Dr.Charles Severence. All the exercises are solved in this folder. 
+
+## Odd Even Checker
+- [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Odd-Even)
+- Description: This program checks if the number accepted is odd or even integer.
