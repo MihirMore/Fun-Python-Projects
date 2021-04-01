@@ -11,10 +11,13 @@ twentyfivetip = tip * .25
 amount = int(input("What amount of tip would you like to give: 18%, 20%, 25% (Enter only number): "))
 if(amount == 18):
     total1 = tip + eightip
+    round(total1, 1)
     print(f"18% tip is ${eightip}, which brings your total to {total1}")
 elif(amount == 20):
     total2 = tip + twentytip
+    round(total2, 1)
     print(f"20% tip is ${twentytip}, which brings your total to {total2}")
 elif(amount == 25):
     total3 = tip + twentyfivetip
+    round(total3, 1)
     print(f"25% tip is ${twentyfivetip}, which brings your total to {total3}")        
