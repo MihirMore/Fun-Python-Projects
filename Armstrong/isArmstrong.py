@@ -7,7 +7,15 @@ def armstrongcheck(testednumber):
     return result
 
 def main():
-            
+    print("\n Armstrong number checker")
+    originalnumber = int(input("\n Please enter an integer to check if it's an Armstrong number: "))
+    checkedNumber = armstrongcheck(originalnumber)
+    if checkedNumber == originalnumber:
+        print("It's an Armstrong number!")
+    else:
+        print("It's not an Armstrong number")
+
+main()
     
 
 
