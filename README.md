@@ -35,3 +35,7 @@
 ## Biography
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Biography)
 - Description: This program asks for user information and displays them.
+
+## Armstrong Checker
+- [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Armstrong)
+- Description: This program will check if entered number is armstrong or not. Example:153 = 1^3 + 5^3 + 3^3. Hence, it's an Armstrong number
