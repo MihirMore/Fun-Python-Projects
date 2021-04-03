@@ -4,12 +4,12 @@ def convertInputString():
     rawlist = list(rawstring)
     return rawlist
 
-def dirtyaphabets(dirtyList):
+def dirtyAlphabets(dirtyList):
     dirtyAlphabetics = [" ", "-", ".", ",", ":", ";", "!", "?", "'", "\""]
     for character in dirtyAlphabetics:
         if character in dirtyList:
             dirtyList.remove(character)
-            return dirtyaphabets(dirtyList)
+            return dirtyAlphabets(dirtyList)
     return dirtyList
 
 def pallindromeCheck(cleanList):
@@ -20,4 +20,7 @@ def pallindromeCheck(cleanList):
         return "The text you entered is not a Pallindrome."                
 
 def main():
-    print("\nPallindrome Checker")        
+    print("\nPallindrome Checker")      
+    originalList = convertInputString()
+    originalList = dirtyAlphabets(originalList)
+      
