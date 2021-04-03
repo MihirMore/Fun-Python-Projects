@@ -23,5 +23,7 @@ def main():
     print("\nPallindrome Checker")      
     originalList = convertInputString()
     originalList = dirtyAlphabets(originalList)
-    originalList = pallindromeCheck(originalList)
-      
+    pallindrome = pallindromeCheck(originalList)
+    print(pallindrome)
+
+ main()   
