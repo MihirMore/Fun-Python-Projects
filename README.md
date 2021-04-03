@@ -27,3 +27,7 @@
 ## Tip Calculator
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Tip-calculator)
 - Description: This calculator helps to calculate tip based on percentage tip selected on bill.
+
+## Pallindrome Checker
+- [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Pallindrome)
+- Description: This program checks whether the entered word, phrase or sentence is pallindrome or not.
