@@ -31,3 +31,7 @@
 ## Pallindrome Checker
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Pallindrome)
 - Description: This program checks whether the entered word, phrase or sentence is pallindrome or not.
+
+## Biography
+- [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Biography)
+- Description: This program asks for user information and displays them.
