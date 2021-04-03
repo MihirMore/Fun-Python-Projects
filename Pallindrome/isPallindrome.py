@@ -15,9 +15,9 @@ def dirtyAlphabets(dirtyList):
 def pallindromeCheck(cleanList):
     reversedList = cleanList[::-1]
     if reversedList == cleanList:
-        return "The text you entered is a Pallindrome!"
+        return "\n The text you entered is a Pallindrome!"
     else:
-        return "The text you entered is not a Pallindrome."                
+        return "\n The text you entered is not a Pallindrome."                
 
 def main():
     print("\nPallindrome Checker")      
@@ -26,4 +26,4 @@ def main():
     pallindrome = pallindromeCheck(originalList)
     print(pallindrome)
 
- main()   
+main()   
