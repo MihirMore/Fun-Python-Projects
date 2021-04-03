@@ -4,8 +4,11 @@ def armstrongcheck(testednumber):
         remainder = testednumber % 10
         result += remainder ** 3          
         testednumber = int(testednumber/10)         
-    print(result)    
+    return result
+
+def main():
+            
     
 
-armstrongcheck(153)    
+
   
