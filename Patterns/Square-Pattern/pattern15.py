@@ -8,11 +8,11 @@ Input rows: 5
 Input columns: 5
 Output
 
-12345 55555
-23455 45555  
-34555 34555
-45555 23455
-55555 12345
+12345 
+23455   
+34555 
+45555 
+55555 
 '''
 rows = int(input("Please enter the number of rows: "))
 columns = int(input("Please enter the number of columns: "))
