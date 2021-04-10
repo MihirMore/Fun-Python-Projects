@@ -42,5 +42,6 @@
 
 ## Patterns
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Patterns)
-- Description: This folder contains a variety of pattern programs like number-pattern(https://github.com/MihirMore/Fun-Python-Projects/tree/main/Patterns/Number-Pattern)
+- Description: This folder contains a variety of pattern programs like [number-pattern](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Patterns/Number-Pattern), 
+               [star-pattern](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Patterns/Star-Pattern) 
               
