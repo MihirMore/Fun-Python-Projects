@@ -20,17 +20,22 @@ Output
 '''
 
 rows = int(input("Please enter the number of rows: "))
-space = rows-2
-star = 1
-for i in range(0 , rows*2):
-    for spaces in range(space*2 , -1, -1):
-        print("*", end=" ")        
-    for stars in range(1 ,star*2):
-        print(" " , end=" ")        
-    if (i < rows-1):
-        star += 1
-        space -= 1
-    else:
-        star -= 1
-        space += 1      
-    print()                                 
+
+for i in range(0 , rows):
+    for j in range(rows , i , -1):
+        print("*" , end=" ")
+    for spaces in range(0, 2*i):
+        print(" ", end=" ")
+    for k in range(rows ,i , -1):
+        print("*" , end=" ") 
+    print()
+for m in range(0, rows):
+    for n in range(0 , m+1):
+        print("*" , end=" ")
+    for space in range((2*rows-2) , 2*m, -1):
+        print(" ", end=" ")
+    for c in range(0 , m+1):
+        print("*" , end=" ")
+    print()           
+
+
