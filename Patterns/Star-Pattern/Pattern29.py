@@ -23,7 +23,7 @@ Output
 '''
 rows = int(input("Please enter the number of rows: "))
 count = int(rows/2)
-total = rows*2
+
 for i in range(count , rows+1,2):
     for j in range(1, rows-i,2):
         print(" ",end="")        
