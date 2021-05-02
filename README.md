@@ -40,8 +40,4 @@
 - [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Armstrong)
 - Description: This program will check if entered number is armstrong or not. Example:153 = 1^3 + 5^3 + 3^3. Hence, it's an Armstrong number
 
-## Patterns
-- [Source-Code](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Patterns)
-- Description: This folder contains a variety of pattern programs like [number-pattern](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Patterns/Number-Pattern), 
-               [star-pattern](https://github.com/MihirMore/Fun-Python-Projects/tree/main/Patterns/Star-Pattern) 
-              
+
